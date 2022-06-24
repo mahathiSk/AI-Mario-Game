@@ -1,0 +1,45 @@
+.heading {
+  width: 100%;
+  border: 2px dotted whitesmoke ;
+  text-align: left;
+}
+
+.heading h2{
+  font-weight: bold;
+  font-family: 'Moon Dance', cursive;
+    color: purple;
+    display: inline;
+}
+
+.heading button{
+    float: right;
+   color: greenyellow;
+}
+
+h3 {
+  bottom: 0;
+  position: fixed;
+  background-color: aqua;
+ width: 100%;
+}
+
+.image{
+  display:inline;
+  width: 45%;
+}
+
+.modal-dialog {
+  width: 90%;
+}
+
+h4{
+  background-color: aqua;
+  font-size: 20px;
+}
+
+video{
+  background: url("game_console.png");
+  background-size: cover;
+  background-position: center;
+  padding: 23px;
+}
